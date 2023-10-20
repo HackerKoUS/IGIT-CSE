@@ -31,7 +31,7 @@ h5 {
 .head h5 {
     font-family: Kanit;
     display: flex;
-    margin-left: 0.7%;
+    margin-left: 1.1%;
 }
 
 .navbar-nav {
@@ -47,7 +47,7 @@ h5 {
     font-family: Kanit;
     color: white;
     text-decoration: none;
-    margin: 5px 5px 0 6px;
+    margin: 9px 5px 0 6px;
 }
 
 .navbar-nav a:hover {
@@ -61,7 +61,7 @@ h5 {
     display: flex;
     margin-left: 0%;
     height: 10vh;
-    width: 212vh;
+    width: 100vw;
     background-color: rgb(31, 28, 28);
 }
 
@@ -71,13 +71,13 @@ letter-spacing: 3px;
     display: flex;
     height: 130vh;
     justify-content: center;
-    width: 212.2vh;
+    width: 100vw;
     background-image: url(javier-miranda-bDFP8PxzW1Q-unsplash.jpg);
 }
 
 .IMG {
     height: 80vh;
-    width: 204vh;
+    width: 100vw;
     color: rgb(250, 250, 247);
     background: transparent;
 }
@@ -146,7 +146,7 @@ letter-spacing: 3px;
     display: flex;
     height: 120vh;
     margin-top: 2%;
-    width: 212vh;
+    width: 100vw;
     background-image: url(yassine-ait-tahit-DibTyzxfPYc-unsplash.jpg);
    
 
@@ -160,7 +160,7 @@ letter-spacing: 3px;
     display: flex;
     height: 130vh;
     justify-content: center;
-    width: 212vh;
+    width: 100vw;
  background-color: white;
  
 
@@ -252,7 +252,7 @@ letter-spacing: 3px;
     display: flex;
     height: 60vh;
     justify-content: center;
-    width: 212vh;
+    width: 100vw;
     font-family: raleway;
 
 }
@@ -260,11 +260,11 @@ letter-spacing: 3px;
     overflow: hidden;
     justify-content: center;
     padding: 1%;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 5%;
+    margin-right: 10%;
     display: block;
     margin-top: 2%;
-    width: 65vh;
+    width: 30vw;
     height: 50vh;
     border: solid;
     color: rgb(12, 12, 12);
@@ -289,7 +289,7 @@ letter-spacing: 3px;
    padding: 1%;
     display: flex;
     margin-top: 2%;
-    width: 50vh;
+    width: 20vw;
     height: 50vh;
     border-radius: 14px;
     border: solid;
@@ -309,7 +309,7 @@ letter-spacing: 3px;
      border: 5px solid ;
     border-color: #0c0c0b;
     display: flex;
-    width: 80vh;
+    width: 37vw;
     background-color: #232121;
     height: 30vh;
     border-radius: 14px;
@@ -332,7 +332,7 @@ letter-spacing: 3px;
 .foot {
     display: block;
     height: 270px;
-    width: 208.6vh;
+    width: 98vw;
     padding-bottom: 8px;
     padding-left: 20px;
     padding-top: 15px;
@@ -613,7 +613,7 @@ ul{
     background-color: #d8e70c;
 }
 .slideshow-container {
-    width: 2060px;
+    width: 100vw;
     position: relative;
     margin: 0px;
 }
@@ -626,7 +626,7 @@ ul{
 .text{
     margin-left: 29%;
     margin-top: 5%;
-    width: 88vh;
+    width: 40vw;
     height: max-content;
     display: block;
     justify-content: center;
@@ -659,11 +659,11 @@ ul{
 
 .mySlides img{
     padding-top: 1.2%;
-padding-left: 1.8%;
+    padding-left: 1.8%;
     max-height: 110vh;
     min-height: 110vh;
-    max-width: 204vh;
-    min-width: 204vh;
+    max-width: 96vw;
+    min-width: 96vw;
     border-radius: 14px;
 }
 .bb{
@@ -676,7 +676,7 @@ padding-left: 1.8%;
     padding-top: 1.6%;
     padding-right: 2.2%;
     padding-bottom: 1.8%;
-    height: 2.7vw;
+    height: 5.7vh;
     width: 2.8vw;
     background-color: #f9f2f2;
     color: white;
