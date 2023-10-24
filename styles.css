@@ -568,6 +568,12 @@ height: 8vh;
         font-size: xx-small;
 
     }
+    .pic img{
+        padding-left: 18%;
+    }
+    .hod u{
+       padding-left: 27%;
+    }
 }
 
 .notice {
@@ -655,23 +661,25 @@ height: 8vh;
 }
 @media (max-width:600px) {
     .notice{
-        font-size: x-small;
+        font-size:medium;
     }
     .lnot{
         
-        width: 40vw;
-        height: 28vh;
+        width: 60vw;
+        height: 48vh;
         text-align: center;
     }
     .rnot{
-        padding-top: 7%;
-        margin-right: 14px;
+        margin: 0;
+        padding: 0;
         border-radius: 0%;
-        height: 25vh;
+        height: 0vh;
+        width: 0vw;
         background-color: white;
         color: #050505;
         border: none;
-        font-size: xx-small;
+        font-size: 1px;
+        visibility: hidden;
     }
 }
 .foot {
@@ -848,11 +856,11 @@ height: 8vh;
 }
 @media (max-width:600px){
  .mySlides img{
-    max-height: 60vh;
-    min-height: 60vh;
+    max-height: 55vh;
+    min-height: 55vh;
  }
  .Gallery{
-    height: 68vh;
+    height: 61vh;
  }
 }
 
