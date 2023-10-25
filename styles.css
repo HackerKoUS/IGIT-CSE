@@ -555,6 +555,7 @@ height: 8vh;
         font-size: xx-small;
       letter-spacing: normal;
       
+      
     }
     .prof{
         font-size: x-small;
@@ -572,7 +573,8 @@ height: 8vh;
         padding-left: 18%;
     }
     .hod u{
-       padding-left: 27%;
+       padding-left: 33%;
+       letter-spacing: normal;
     }
 }
 
@@ -590,7 +592,7 @@ height: 8vh;
     overflow: hidden;
     justify-content: center;
     padding: 1%;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-right: 10%;
     display: block;
     margin-top: 2%;
