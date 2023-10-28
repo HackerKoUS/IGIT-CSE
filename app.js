@@ -1,3 +1,21 @@
+a=document.getElementById("i")
+aj=document.getElementById("ij");ak=document.getElementById("ik");al=document.getElementById("il");
+b=0
+function show(){
+    if(b==0){
+    a.style.visibility="visible"
+    aj.style.visibility="visible"
+    ak.style.visibility="visible"
+    al.style.visibility="visible"
+    b=b+1}
+    else{
+        a.style.visibility="hidden" 
+        aj.style.visibility="hidden"
+        ak.style.visibility="hidden"
+        al.style.visibility="hidden"
+        b=0
+    }
+}
 
 let slideIndex = 1;
 showSlides(slideIndex);
