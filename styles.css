@@ -64,9 +64,12 @@ h5 {
       margin-top: 7%;
     }
     .navbar-nav a{
-        margin-left: 102%;
+        color: white;
+       
+        margin-left: 88%;
         visibility: hidden;
     }
+
     .og{
         visibility: visible;
         margin-top: 4%;
@@ -393,6 +396,7 @@ ul{
    margin-left: 0%;margin-top: 1%;
 }    
 .home{
+    height: 123vh;
     letter-spacing: 0px;
     font-size: xx-small;
 }
@@ -400,6 +404,15 @@ ul{
     font-size:small;
     margin-left: 17%;
     margin-bottom: 0%;
+}
+.dropdown-content{
+    width: 40vw;
+}
+.dropdown2-content{
+    width: 40vw;
+}
+.dropdown4-content{
+    width: 40vw;
 }
 .dropdown{
     width: 37vw;
@@ -561,15 +574,23 @@ height: 8vh;
         font-size: x-small;
         letter-spacing: normal;
     }
+
     .prof p{
-        font-size: x-small;
+        padding: 0;
+        margin: 0;
+        font-size: xx-small;
         letter-spacing: normal;
     }
     .sri{
-        font-size: xx-small;
+        font-size: small;
 
     }
+    .prof img{
+        height: 20vh;
+        width: 30vw;
+    }
     .pic img{
+      
         padding-left: 18%;
     }
     .hod u{
